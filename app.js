@@ -1,5 +1,5 @@
 //
-// Let's Chat
+// Let's Chat + feature
 //
 
 'use strict';
